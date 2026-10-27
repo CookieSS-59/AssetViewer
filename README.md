@@ -2,7 +2,7 @@
 
 ## Overall Info:
 
-Asset viewer is just a vibe coded software where you can quickly well, view files in a viewport GUI. It was supposed to be keept as a private project for when i quickly want to explore decompiles/files of unity games alltho it is capable with other file extentions
+Asset viewer is just a vibe coded software where you can quickly well, find and view files in a viewport GUI. (Simillar to AssetStudio) It was supposed to be keept as a private project for when i quickly want to explore decompiles/files of unity games alltho it is capable with other file extentions
 
 ## Preview Supported Files:
 
